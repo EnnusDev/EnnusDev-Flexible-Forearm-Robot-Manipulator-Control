@@ -6,7 +6,7 @@
 % simulation via Simulink. Then it generated the plot to visualize the
 % results.
 
-clear all, close all, clc
+clear all; close all; clc;
 
 % import casadi 
 import casadi.*
