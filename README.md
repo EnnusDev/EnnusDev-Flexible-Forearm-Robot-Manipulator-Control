@@ -1,6 +1,6 @@
 # Flexible Forearm Robot Manipulator Control
 
-In this project has been implemented the dynamics of a two-link planar-arm robot with flexible second link, using CasADì library. Then it has been designed a simple PD controller in order to follow a sinusoidal trajectory and stabilize the flexible joint oscillation. 
+In this project has been implemented the dynamics of a two-link planar-arm robot with flexible second link, using [CasADi library](https://web.casadi.org/). Then it has been designed a simple PD controller in order to follow a sinusoidal trajectory and stabilize the flexible joint oscillation. 
 
 The robot model considered is described in the following paper: https://ieeexplore.ieee.org/document/9993103
 
