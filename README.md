@@ -1,4 +1,4 @@
-# Flexible-Forearm-Robot-Manipulator-Control
+# Flexible Forearm Robot Manipulator Control
 
 In this project has been implemented the dynamics of a two-link planar-arm robot with flexible second link. Then it has been designed a simple PD controller in order to follow a sinusoidal trajectory and stabilize the flexible joint oscillation. 
 
